@@ -21,3 +21,6 @@ Mientras tanto, los archivos de salida compilados se generarán en la carpeta `b
 ## Gestión de dependencias
 
 La vista `JAVA PROJECTS` (PROYECTOS JAVA) le permite administrar sus dependencias. Puede encontrar más detalles [aquí](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+---
+> Editado desde `VsCodium`
